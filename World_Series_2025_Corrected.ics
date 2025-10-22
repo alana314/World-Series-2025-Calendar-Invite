@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Alana//World Series 2025//EN
+BEGIN:VEVENT
+UID:worldseries2025-game1@alanabalagot.com
+DTSTAMP:20251022T212204Z
+DTSTART:20251025T000000Z
+DTEND:20251025T033000Z
+SUMMARY:Game 1 – Los Angeles Dodgers @ Toronto Blue Jays
+LOCATION:Rogers Centre, Toronto, ON, Canada
+DESCRIPTION:Los Angeles Dodgers @ Toronto Blue Jays (Game 1) – starts 5:00 p.m. PT / 8:00 p.m. ET
+END:VEVENT
+BEGIN:VEVENT
+UID:worldseries2025-game2@alanabalagot.com
+DTSTAMP:20251022T212204Z
+DTSTART:20251026T000000Z
+DTEND:20251026T033000Z
+SUMMARY:Game 2 – Los Angeles Dodgers @ Toronto Blue Jays
+LOCATION:Rogers Centre, Toronto, ON, Canada
+DESCRIPTION:Los Angeles Dodgers @ Toronto Blue Jays (Game 2) – starts 5:00 p.m. PT / 8:00 p.m. ET
+END:VEVENT
+BEGIN:VEVENT
+UID:worldseries2025-game3@alanabalagot.com
+DTSTAMP:20251022T212204Z
+DTSTART:20251028T000000Z
+DTEND:20251028T033000Z
+SUMMARY:Game 3 – Toronto Blue Jays @ Los Angeles Dodgers
+LOCATION:Dodger Stadium, Los Angeles, CA, USA
+DESCRIPTION:Toronto Blue Jays @ Los Angeles Dodgers (Game 3) – starts 5:00 p.m. PT / 8:00 p.m. ET
+END:VEVENT
+BEGIN:VEVENT
+UID:worldseries2025-game4@alanabalagot.com
+DTSTAMP:20251022T212204Z
+DTSTART:20251029T000000Z
+DTEND:20251029T033000Z
+SUMMARY:Game 4 – Toronto Blue Jays @ Los Angeles Dodgers
+LOCATION:Dodger Stadium, Los Angeles, CA, USA
+DESCRIPTION:Toronto Blue Jays @ Los Angeles Dodgers (Game 4) – starts 5:00 p.m. PT / 8:00 p.m. ET
+END:VEVENT
+BEGIN:VEVENT
+UID:worldseries2025-game5@alanabalagot.com
+DTSTAMP:20251022T212204Z
+DTSTART:20251030T000000Z
+DTEND:20251030T033000Z
+SUMMARY:Game 5 (if necessary) – Toronto Blue Jays @ Los Angeles Dodgers
+LOCATION:Dodger Stadium, Los Angeles, CA, USA
+DESCRIPTION:Toronto Blue Jays @ Los Angeles Dodgers (Game 5 (if necessary)) – starts 5:00 p.m. PT / 8:00 p.m. ET
+END:VEVENT
+BEGIN:VEVENT
+UID:worldseries2025-game6@alanabalagot.com
+DTSTAMP:20251022T212204Z
+DTSTART:20251101T000000Z
+DTEND:20251101T033000Z
+SUMMARY:Game 6 (if necessary) – Los Angeles Dodgers @ Toronto Blue Jays
+LOCATION:Rogers Centre, Toronto, ON, Canada
+DESCRIPTION:Los Angeles Dodgers @ Toronto Blue Jays (Game 6 (if necessary)) – starts 5:00 p.m. PT / 8:00 p.m. ET
+END:VEVENT
+BEGIN:VEVENT
+UID:worldseries2025-game7@alanabalagot.com
+DTSTAMP:20251022T212204Z
+DTSTART:20251102T000000Z
+DTEND:20251102T033000Z
+SUMMARY:Game 7 (if necessary) – Los Angeles Dodgers @ Toronto Blue Jays
+LOCATION:Rogers Centre, Toronto, ON, Canada
+DESCRIPTION:Los Angeles Dodgers @ Toronto Blue Jays (Game 7 (if necessary)) – starts 5:00 p.m. PT / 8:00 p.m. ET
+END:VEVENT
+END:VCALENDAR
